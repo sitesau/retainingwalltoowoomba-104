@@ -1,0 +1,22 @@
+{
+  "wheel_id": 596,
+  "structure": "umbrella",
+  "slug": "retainingwalltoowoomba-104",
+  "project": "retaining-wall-contractors-toowoomba-how-to-choose-31e9d9cb886a",
+  "parent_t1_ref": "retainingwalltoowoomba-153",
+  "node_role": "feeder",
+  "money_target": "retainingwalltoowoomba.com.au",
+  "primary_kw": "retaining wall contractors toowoomba how to choose",
+  "intended_url": "http://retaining-wall-contractors-toowoomba-how-to-choose-31e9d9cb886a.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "ccc1b92be7c2ae8a",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-contractors-toowoomba-246bc11ec6da29a82d60fad/",
+      "anchor": "retaining wall contractors toowoomba",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
